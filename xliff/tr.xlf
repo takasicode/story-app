@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="tr" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="s497c1519cdbf3661">
+  <source>Hi!</source>
+  <target>Merhaba!</target>
+</trans-unit>
+<trans-unit id="s2fb92e27872a5ccb">
+  <source>Tell your deep thought!</source>
+  <target>Derin düşünceni anlat!</target>
+</trans-unit>
+<trans-unit id="sa8b9a836ce2664fe">
+  <source>Copyright © 2023</source>
+  <target>Tüm hakları saklıdır © 2023</target>
+</trans-unit>
+<trans-unit id="s6abb1cd87fe0114e">
+  <source>Home</source>
+  <target>Anasayfa</target>
+</trans-unit>
+<trans-unit id="s7fee95b66225e1fb">
+  <source>Dashboard</source>
+  <target>Kontrol Paneli</target>
+</trans-unit>
+<trans-unit id="sface44df32238223">
+  <source>Your Profile</source>
+  <target>Profiliniz</target>
+</trans-unit>
+<trans-unit id="s8fa032cdafb3c9b0">
+  <source>Sign Out</source>
+  <target>Çıkış Yap</target>
+</trans-unit>
+<trans-unit id="se5f91a0bf7e116a7">
+  <source>Posted Story</source>
+  <target>Yayınlanan Hikayeler</target>
+</trans-unit>
+<trans-unit id="s1f30f2eaf1e38fb9">
+  <source>Add Story</source>
+  <target>Hikaye Ekle</target>
+</trans-unit>
+<trans-unit id="sad8d5a99a857cb58">
+  <source>Edit Story</source>
+  <target>Hikaye Düzenle</target>
+</trans-unit>
+<trans-unit id="s80ffe950a5d67eeb">
+  <source>Delete Story</source>
+</trans-unit>
+<trans-unit id="scb443e9e9c8f5b7d">
+  <source>Share Story</source>
+  <target>Hikayeyi Paylaş</target>
+</trans-unit>
+<trans-unit id="s2bd18e04285ce626">
+  <source>Upload Picture</source>
+  <target>Resim Yükle</target>
+</trans-unit>
+<trans-unit id="s54972c2c9236bfcb">
+  <source>Your Story</source>
+  <target>Hikayeniz</target>
+</trans-unit>
+<trans-unit id="s0c532aae655f755a">
+  <source>Write Your Story</source>
+  <target>Hikayenizi Yazın</target>
+</trans-unit>
+<trans-unit id="s875e41944a3dc966">
+  <source>Story Can't Empty</source>
+  <target>Hikaye Boş Olamaz</target>
+</trans-unit>
+<trans-unit id="sc0bd472f121740fe">
+  <source>Image Can't Empty</source>
+  <target>Resim Boş Olamaz</target>
+</trans-unit>
+<trans-unit id="s127da18831ca0464">
+  <source>Send Your Story on</source>
+  <target>Hikayeni Gönder</target>
+</trans-unit>
+<trans-unit id="s4dc2e4b2b72aa125">
+  <source>Edit Your Story</source>
+  <target>Hikayeni Düzenle</target>
+</trans-unit>
+<trans-unit id="s51baafccb8be555c">
+  <source>Load more...</source>
+  <target>Daha fazla yükle...</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

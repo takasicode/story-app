@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title><%= htmlWebpackPlugin.options.title %></title>
+  </head>
+  <body>
+    <header>
+      <navbar-element
+        brandName="<%= brandName %>"
+        name="Muhammad Fadhil Abyansyah"
+      ></navbar-element>
+    </header>
+
+    <main class="container py-5">
+      <form-title-add-story></form-title-add-story>
+      <form id="add-story-form" class="needs-validation" novalidate>
+        <div class="mb-3">
+          <label-textarea></label-textarea>
+          <textarea-with-validation
+            inputId="validationCustomStory"
+            required
+          ></textarea-with-validation>
+        </div>
+
+        <div class="mb-3">
+          <label-input-image></label-input-image>
+          <input-image-with-preview
+            inputId="validationCustomEvidence"
+            required
+          ></input-image-with-preview>
+        </div>
+        <button-share-story></button-share-story>
+      </form>
+    </main>
+
+    <footer class="container py-5">
+      <footer-element></footer-element>
+    </footer>
+  </body>
+</html>
