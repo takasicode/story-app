@@ -41,4 +41,4 @@ Edit Story Page
 ![App Screenshot](./src/public/images/screenshot/screencapture-edit_story.png)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,sass,js,nodejs,npm,webpack)](https://github.com/takasicode/story-app)
+[![My Skills](https://skillicons.dev/icons?i=html,sass,lit,js,nodejs,npm,webpack)](https://github.com/takasicode/story-app)
